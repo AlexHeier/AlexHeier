@@ -36,7 +36,7 @@
 
 ## 📫 Let's connect!
 
-- 📧 Email: alexanderheier@icloud.com
+- 📧 alexanderheier@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexander-heier/)  
 - 🌐 [GitHub Projects](https://github.com/AlexHeier)
 
