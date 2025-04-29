@@ -14,7 +14,7 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Golang, Python
+- **Languages:** Golang, Python, C++
 - **Focus Areas:** Backend systems, automation, AI/NLP
 
 ---
