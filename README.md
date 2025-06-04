@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 Projects I'm proud of
-
-- 🧠 [**word2vector**](https://github.com/AlexHeier/word2vector) – My own Word2Vec implementation in Golang. Currently extending it with subword embeddings and parallel training capabilities.
+- 🧠 [**word2vector**](https://github.com/AlexHeier/word2vector) – My own Word2Vec implementation and training in Golang.
+- 🧠 [**BPE**](https://github.com/AlexHeier/bpe) – My own Byte Pair Encoding implementation in C++. Supports the creation of vocabulary, training vectors, and testing the vectors.
 - 🤖 [**TrappaBot**](https://github.com/AlexHeier/TrappaBot) – A smart bot built for automation and interaction with external systems. Designed with flexibility and robustness in mind.
 
 ---
